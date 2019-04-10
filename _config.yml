@@ -7,7 +7,7 @@
 # Setup
 title:               'Gilmarxd'
 tagline:             'github pages'
-description:         'Sou estudante de Ciência da Computação e vou colocar tudo que aprendi no curso aqui e mais algumas coisas.'
+description:         'Sou estudante de Ciência da Computação e estou no terceiro período de oito, <a href="{{author.url}}" target="_blank">@Gilmar_CS</a>.'
 #description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:                 'https://gilmarxd.github.io/'
 baseurl:             ''
