@@ -7,8 +7,7 @@
 # Setup
 title:               'Gilmarxd'
 tagline:             'github pages'
-description:         'Sou estudante de Ciência da Computação, estou no terceiro período de oito, gosto de Computação Gráfica com OpenGL em C++, seja bem-vindo e aproveito os conteúdos. <br><a href="https://twitter.com/Gilmar_CS" target="_blank">@Gilmar_CS</a>'
-#description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:         'Sou estudante de Ciência da Computação, estou no terceiro período de oito, gosto de Computação Gráfica com OpenGL em C++, seja bem-vindo e aproveito os conteúdos. <br><a style="margin-left:auto; margin-right:auto;" href="https://twitter.com/Gilmar_CS" target="_blank">@Gilmar_CS</a>'
 url:                 'https://gilmarxd.github.io/'
 baseurl:             ''
 paginate:            4
