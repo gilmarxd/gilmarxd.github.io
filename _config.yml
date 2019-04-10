@@ -1,0 +1,31 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+#permalink:           pretty
+#relative_permalinks: true
+
+# Setup
+title:               'Gilmarxd'
+tagline:             'github pages'
+description:         'Sou estudante de Ciência da Computação e vou colocar tudo que aprendi no curso aqui e mais algumas coisas.'
+#description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:
+baseurl:             ''
+paginate:            4
+paginate_path: "/page-:num"
+
+# About/contact
+author:
+  name:              Gilmar Custodio
+  url:               https://twitter.com/Gilmar_CS
+  email:             gilmar_custodio_@hotmail.com
+
+github:
+  repo: 'http://github.com/gilmarxd/gilmarxd.github.io'
+
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+
+# Custom vars
+version:             0.0.1
